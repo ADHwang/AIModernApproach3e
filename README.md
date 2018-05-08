@@ -11,3 +11,5 @@ The authors try to unify all subfields in AI through the idea of an **intelligen
 4. Acting rationally: The rational agent approach
 
 ## Foundations
+
+- Philosophy
