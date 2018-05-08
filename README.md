@@ -13,3 +13,4 @@ The authors try to unify all subfields in AI through the idea of an **intelligen
 ## Foundations
 
 - Philosophy
+    - Aristotle (384–322 B.C.): Syllogism.
