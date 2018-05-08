@@ -7,3 +7,7 @@ The authors try to unify all subfields in AI through the idea of an **intelligen
 
 1. Acting humanly: The Turing Test approach
 2. Thinking humanly: The cognitive modeling approach
+3. Thinking rationally: The “laws of thought” approach
+4. Acting rationally: The rational agent approach
+
+## Foundations
